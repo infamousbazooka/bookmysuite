@@ -1,0 +1,21 @@
+<!doctype html>
+<html lan="en">
+<meta charset="utf-8"/>
+<title>bookmysuite.com - Online Restaurant Booking</title>
+<script src="image.js" type="text/javascript" ></script>
+<head>
+<link rel="stylesheet" href="mainmenustyle.css"/>
+</head>
+<body>
+	<div id="whole">
+	<header><img src="images/bms.png"></header>
+		<nav id="mainmenu">
+			<ul>
+				<li id="home"><a href="index.html" >HOME</a></li>
+				<li id="deals"><a href="deals.html">DEALS</a></li>
+			</ul>
+		</nav>
+		<footer id="rights" >©bookmysuite - All Rights Reserved. An Artek Brand</footer>
+	</div>
+</body>
+</html>

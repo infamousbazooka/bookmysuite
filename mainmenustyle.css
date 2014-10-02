@@ -1,0 +1,32 @@
+#whole{
+	float:left;
+	width:1037px;
+	height:auto;
+	font-family: 'Open Sans', sans-serif;
+	padding:0 12%;
+	background-color:#1FE6FF;
+	margin:0 0 1px 0;
+	text-align:center;
+}
+.mainmenu{
+	float:left;
+	text-align:center;
+	width:auto;
+	position:static;
+	background:#1FE6FF;
+	height:auto;
+	padding:10px 43px;
+	color:#1A18B5;
+	text-decoration:none;
+	font-size:14px;
+	font-weight:bold;
+	border-left:1px solid #ffffff;
+	cursor:pointer;
+}
+.mainmenu:hover{
+	color:#1FE6FF;
+	background:#1A18B5;
+}
+#pubs{
+	border-right:1px solid #ffffff;
+}

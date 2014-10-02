@@ -1,0 +1,32 @@
+*{
+	background-color: silver;
+	margin: 0px;
+	padding: 0px;
+}
+#whole{
+	border: 2px solid black; 
+	width: 1000px;
+	margin: 20px auto;
+}
+body{
+	display: -webkit-box;
+}
+/*#header{
+	padding: 5px;
+}
+#mainmenu{
+	color: white;
+}
+#mainmenu li{
+	font: bold italic 14px comic sans ms;
+	display: inline-block;
+	list-style: none;	
+	background: blue;
+}
+#rights {
+	clear: both;
+	color: black;
+	text-align: left;
+	padding: 20px;
+	border-top: 2px solid green;
+}*/
